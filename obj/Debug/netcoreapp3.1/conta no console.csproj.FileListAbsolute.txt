@@ -1,0 +1,13 @@
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\bin\Debug\netcoreapp3.1\conta no console.exe
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\bin\Debug\netcoreapp3.1\conta no console.deps.json
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\bin\Debug\netcoreapp3.1\conta no console.runtimeconfig.json
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\bin\Debug\netcoreapp3.1\conta no console.runtimeconfig.dev.json
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\bin\Debug\netcoreapp3.1\conta no console.dll
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\bin\Debug\netcoreapp3.1\conta no console.pdb
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\obj\Debug\netcoreapp3.1\conta no console.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\obj\Debug\netcoreapp3.1\conta no console.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\obj\Debug\netcoreapp3.1\conta no console.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\obj\Debug\netcoreapp3.1\conta no console.AssemblyInfo.cs
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\obj\Debug\netcoreapp3.1\conta no console.dll
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\obj\Debug\netcoreapp3.1\conta no console.pdb
+C:\Users\Phellipe\Desktop\estudonauta\c#\conta no console\obj\Debug\netcoreapp3.1\conta no console.genruntimeconfig.cache
